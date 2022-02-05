@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @mustafaguler3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **Mustafa**
+- 👀 I’m interested in **coding.**
+- 🌱 I’m currently learning **Golang,Java,.Net etc.**
+- 📫 How to reach me **mustafaguler4@gmail.com**
 
-<!---
-mustafaguler3/mustafaguler3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/mustafaguler4/
+
+[gmail]: mailto:mustafaguler4@gmail.com
+<br />
