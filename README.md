@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Mustafa**
 - 👀 I’m interested in **coding.**
-- 🌱 I’m currently learning **Javascript,Java-Spring,C#.Net,Angular,NodeJS .**
+- 🌱 I’m currently learning **Javascript,Java-Spring,C#.Net,Angular,React,NodeJS .**
 - 📫 How to reach me **mustafaguler4@gmail.com**
 
 ### 📩 Connect with me:
