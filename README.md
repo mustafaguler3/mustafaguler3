@@ -18,7 +18,7 @@
 
 [linkedin]: https://www.linkedin.com/in/mustafaguler4/
 
-[gmail]: mailto:mustafaguler4@gmail.com
+[gmail]: mailto:mustafa.glr@hotmail.com
 <br />
 
 ![](https://komarev.com/ghpvc/?username=mustafaguler3&color=green)
