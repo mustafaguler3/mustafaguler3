@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Mustafa**
 - 👀 I’m interested in **coding.**
-- 🌱 I’m currently learning **Java,Spring-Spring Boot,Angular,C#.Net Core .**
+- 🌱 I’m currently learning **Java,Spring-Spring Boot,Angular,C#.Net .**
 
 ### 📩 Connect with me:
 
