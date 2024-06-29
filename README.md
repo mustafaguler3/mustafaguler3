@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Mustafa**
 - 👀 I’m interested in **coding.**
 - 🌱 I’m currently learning **Java,Spring-Spring Boot,DevOps.**
-- 🙋‍♂️ Skills **Java,C# & Angular**
+- 🙋‍♂️ Skills **Java,C#,Angular**
 ### 📩 Connect with me:
 
 
