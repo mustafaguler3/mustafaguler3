@@ -10,7 +10,7 @@
 
 <br />
 
-[gmail]: mailto:mustafa.glr@hotmail.com
+[hotmail]: mailto:mustafa.glr@hotmail.com
 <br />
 
 ![](https://komarev.com/ghpvc/?username=mustafaguler3&color=green)
