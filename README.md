@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Mustafa**
 - 👀 I’m interested in **coding.**
-- 🌱 I’m currently learning **Java,Spring-Spring Boot,DevOps,Angular & Trend technologies.**
+- 🌱 I’m currently learning **Java,Spring,DevOps,Angular & Trend technologies.**
 - 🙋‍♂️ Skills **Java,C#.Net,Angular,React**
 ### 📩 Connect with me:
 
