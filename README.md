@@ -2,7 +2,7 @@
 
 - 💻 Full-Stack Developer | Java & DevOps Enthusiast
 - 🚀 Passionate about building scalable backend systems and dynamic user interfaces.
-- 🌱 Currently diving deeper into Java, Spring Boot, Nodejs, DevOps, React, Next.js, and modern technologies.
+- 🌱 Currently diving deeper into Java, Spring Boot, Nodejs, DevOps, React, Python and modern technologies.
 - 🎯 Always exploring new tech trends, tools, and best practices.
 
 ## 📫 Connect with Me
