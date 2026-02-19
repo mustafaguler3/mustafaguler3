@@ -1,9 +1,20 @@
-👋 Hi, I’m Mustafa Güler
+# 👋 Hi, I'm Mustafa Güler
 
-- 💻 Full-Stack Developer | Java & DevOps Enthusiast
-- 🚀 Passionate about building scalable backend systems and dynamic user interfaces.
-- 🌱 Currently diving deeper into Java, Spring Boot, Nodejs, DevOps, React, Python and modern technologies.
-- 🎯 Always exploring new tech trends, tools, and best practices.
+💻 Backend-Focused Software Developer | Java & Distributed Systems  
+🚀 Building scalable backend systems with clean architecture principles  
+🤖 Experienced in AI/LLM code evaluation & algorithm optimization  
+⚙️ Passionate about DevOps, CI/CD and asynchronous architectures  
+ 
+---
+
+## 🎯 What I Care About
+
+- Writing clean, maintainable, production-ready code  
+- Performance optimization & system reliability  
+- Secure authentication & scalable backend design  
+- Contributing to AI-powered systems  
+
+---
 
 ## 📫 Connect with Me
 
