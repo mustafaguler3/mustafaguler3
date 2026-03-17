@@ -2,7 +2,6 @@
 
 💻 Backend-Focused Software Developer | Java, Nodejs,.Net,React, Distributed Systems  
 🚀 Building scalable backend systems with clean architecture principles  
-🤖 Experienced in AI/LLM code evaluation & algorithm optimization  
 ⚙️ Passionate about DevOps, CI/CD and asynchronous architectures  
  
 ---
