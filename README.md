@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mustafa Güler
 
-💻 Backend-Focused Software Developer | Java, Nodejs,.Net,React, Distributed Systems  
+💻 Software Developer | Full Stack & AI-Driven Solutions | Java, Nodejs,.Net,React, Distributed Systems  
 🚀 Building scalable backend systems with clean architecture principles  
-⚙️ Passionate about DevOps, CI/CD and asynchronous architectures  
+⚙️ Passionate about Cloud-Native Architecture, CI/CD automation, and AI/LLM integration  
  
 ---
 
