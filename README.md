@@ -2,7 +2,7 @@
 
 💻 Software Developer | Full Stack & AI-Driven Solutions | Java, Nodejs,.Net,React, Distributed Systems  
 🚀 Building scalable backend systems with clean architecture principles  
-⚙️ Passionate about Cloud-Native Architecture, CI/CD automation, and AI/LLM integration  
+⚙️ Passionate about Cloud-Native Architecture, CI/CD automation and AI/LLM integration  
  
 ---
 
