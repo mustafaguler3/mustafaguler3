@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Güler
 
-💻 Software Developer | Full Stack & AI-Driven Solutions | Java, Nodejs,.Net,React, Distributed Systems  
+💻 Software Developer | Full Stack & AI-Driven Solutions | Java, React Native,.Net,React, Distributed Systems  
 🚀 Building scalable backend systems with clean architecture principles  
 ⚙️ Passionate about Cloud-Native Architecture, CI/CD automation and AI/LLM integration  
  
